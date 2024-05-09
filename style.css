@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(transparent,#00968f),url("images/food.jpg");
+    background: linear-gradient(transparent,#00968f),url("food.jpg");
     background-position: center ;
     background-size: cover;
     position: relative;
